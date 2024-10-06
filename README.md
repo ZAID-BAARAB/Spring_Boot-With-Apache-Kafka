@@ -1,6 +1,6 @@
 ## Spring Boot Application With Kafka Example
 
-A sample application which demonstrates how to use `KafkaTemplate` to send message to Kafka Topic within a transaction and how message is received by the Kafka Consumer.
+this repo is sample application which demonstrates how to use `KafkaTemplate` to send message to Kafka Topic within a transaction and how message is received by the Kafka Consumer.
 
 
 ### High Level Architecture
