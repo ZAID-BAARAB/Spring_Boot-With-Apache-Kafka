@@ -81,9 +81,3 @@ A MessageConverter `StringJsonMessageConverter` is configured to convert from St
     ```
     bootstrapServer: 192.168.1.196:9092
     ```
-
-
-### References
-
-* [How to Work with Apache Kafka in Your Spring Boot Application](https://www.confluent.io/blog/apache-kafka-spring-boot-application)
-* [Spring for Apache Kafka Deep Dive – Part 1: Error Handling, Message Conversion and Transaction Support](https://www.confluent.io/blog/spring-for-apache-kafka-deep-dive-part-1-error-handling-message-conversion-transaction-support)
